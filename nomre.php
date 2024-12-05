@@ -23,6 +23,7 @@
 
 
     <?php
+//connect to db
         $link = mysqli_connect("localhost" ,'root', '', "digivala");
         if(isset($_POST['name']) && $_POST['name']!=''){
 
