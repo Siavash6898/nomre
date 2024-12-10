@@ -113,7 +113,7 @@
 
                 ?>
                 <table class="table table-striped table-warning rounded-3 table-hover table-bordered">
-                    <tr><th>نام</th><th>کدملی</th><th >نام درس</th><th>نمره</th></tr>
+                    <tr><th>نام</th><th>codemeli</th><th >نام درس</th><th>نمره</th></tr>
                     <?php
                         while ($row = mysqli_fetch_assoc($result)){
                             echo "<tr>
