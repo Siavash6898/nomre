@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="../bs/css/bootstrap.rtl.css">
     <style>
         .h1080{
-            min-height: 1040px;
+            min-height: 2040px;
 
         }
         .h250{
