@@ -1,7 +1,7 @@
 <?php
 // اطلاعات اتصال به MySQL test8
 $host = 'localhost'; // نام host
-$username = 'roots'; // نام کاربری MySQL
+$username = 'root'; // نام کاربری MySQL
 $password = 'vad'; // رمز عبور MySQL
 $dbname = 'my_new_database'; // نام دیتابیس مورد نظر
 
