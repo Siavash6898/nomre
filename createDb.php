@@ -1,5 +1,6 @@
 <?php
-// اطلاعات اتصال به MySQL test8
+// اطلاعات اتصال به MySQL test9
+
 $host = 'localhost'; // نام host
 $username = 'root'; // نام کاربری MySQL
 $password = 'vad'; // رمز عبور MySQL
