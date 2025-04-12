@@ -10,7 +10,7 @@
 
         }
         .h250{
-            min-height: 13080px;
+            min-height: 1080px;
         }
         .h400{
             height: auto;
