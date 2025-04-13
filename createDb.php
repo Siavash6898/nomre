@@ -1,5 +1,5 @@
 <?php
-// اطلاعات اتصال به MySQL test2
+// اطلاعات اتصال به MySQL test3
 
 $host = 'localhost'; // نام host
 $username = 'root'; // نام کاربری MySQL
